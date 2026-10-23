@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ECOMER</string>
+
+    <!-- Main -->
+    <string name="title_main">Dữ liệu sản phẩm</string>
+    <string name="hint_ten">Tên sản phẩm</string>
+    <string name="hint_loai">Loại sản phẩm</string>
+    <string name="hint_gia">Giá sản phẩm</string>
+    <string name="btn_them">THÊM SẢN PHẨM</string>
+    <string name="btn_cap_nhat">CẬP NHẬT SẢN PHẨM</string>
+    <string name="btn_huy">HỦY</string>
+    <string name="label_danh_sach">Danh sách sản phẩm:</string>
+    <string name="no_image">Chọn hình ảnh sản phẩm...</string>
+    <string name="empty_list">Chưa có sản phẩm nào trong CSDL</string>
+
+    <!-- Login -->
+    <string name="title_login">ECOMER</string>
+    <string name="subtitle_login">Hệ thống Quản lý Sản phẩm</string>
+    <string name="hint_email">Email đăng nhập</string>
+    <string name="hint_password">Mật khẩu</string>
+    <string name="btn_login">ĐĂNG NHẬP</string>
+    <string name="link_register">Chưa có tài khoản? Đăng ký ngay</string>
+
+    <!-- Register -->
+    <string name="title_register">Đăng ký tài khoản</string>
+    <string name="hint_confirm_password">Xác nhận mật khẩu</string>
+    <string name="btn_register">ĐĂNG KÝ</string>
+    <string name="link_login">Đã có tài khoản? Đăng nhập</string>
+
+    <!-- Messages -->
+    <string name="msg_fill_all">Vui lòng nhập đầy đủ thông tin!</string>
+    <string name="msg_invalid_price">Giá phải là số nguyên dương!</string>
+    <string name="msg_add_success">Thêm sản phẩm thành công!</string>
+    <string name="msg_update_success">Cập nhật sản phẩm thành công!</string>
+    <string name="msg_delete_success">Đã xóa sản phẩm!</string>
+    <string name="msg_confirm_delete">Bạn có chắc chắn muốn xóa sản phẩm này?</string>
+    <string name="msg_password_mismatch">Mật khẩu xác nhận không khớp!</string>
+    <string name="msg_register_success">Đăng ký tài khoản thành công!</string>
+    <string name="dialog_delete_title">Xác nhận xóa</string>
+    <string name="dialog_cancel">Hủy</string>
+    <string name="dialog_delete">Xóa</string>
+    <string name="action_logout">Đăng xuất</string>
+</resources>
